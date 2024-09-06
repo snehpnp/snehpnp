@@ -1,7 +1,3 @@
-Certainly! Below is a sample `README.md` template for your GitHub profile. You can customize it with your personal details, projects, and other information.
-
----
-
 # Hi there, I'm [Your Name] 👋
 
 ### 🚀 About Me
