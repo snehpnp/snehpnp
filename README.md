@@ -1,52 +1,105 @@
-# Hi there, I'm [Your Name] 👋
 
-### 🚀 About Me
+<img src="https://github-hero-readme.vercel.app/api?username=snehpnp&linkedin=snehpnp&twitter=snehpnp&description=Student%20Lelner%20%20|%20JavaScript%20%E2%99%A5&width='100%'">
 
-I am a passionate web developer with 2 years of experience specializing in full-stack development using the MERN stack. I enjoy building scalable web applications, integrating third-party APIs, and working on algorithmic trading platforms.
+<br>
 
-- 🔭 I’m currently working on: `Smart Algo V02`, `Esign`, `Out-Book`, `Copy Trading`, `Manual Software`
-- 🌱 I’m currently learning: Advanced algorithmic trading strategies and TypeScript
-- 👯 I’m looking to collaborate on: Open-source projects in the fintech space or anything MERN stack-related
-- 💬 Ask me about: MERN stack, JavaScript, React, Node.js, APIs, and automation
-- 📫 How to reach me: [Your Email Address] | [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ Fun fact: I love solving puzzles and automating repetitive tasks!
+## 🙋‍♂️ About Me
 
-### 🛠 Skills & Tools
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+ 
+- 🌱  I’m currently learning **Advanced JavaScript and SQL.**
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, SQL
-- **Frontend:** React, Redux, Next.js, Bootstrap, Material-UI
-- **Backend:** Node.js, Express.js, Firebase, MongoDB, MySQL
-- **Tools:** Git, Docker, PM2, Postman, VS Code, Webpack
-- **Others:** REST APIs, WebSockets, Third-Party API Integrations (Aadhaar, PAN, etc.)
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-### 📈 GitHub Stats
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://7b1y9b-3000.preview.csb.app/)**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 📫 How to reach me **snehjaiswal20@gmail.com**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+- ⚡ Fun fact **I play games and go to the GYM very often.**
+<br><br><br>
+ 
+## 🚀 Languages and Tools
 
-### 🔥 Projects
+### 👉 Front-end
 
-Here are some of the notable projects I’ve worked on:
+<p>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
+</p>
 
-1. **Smart Algo V02**: A highly efficient algorithmic trading platform that automates trading strategies for optimal performance.
-   - Tech Stack: React, Node.js, MongoDB, WebSocket
-   - [Repository](https://github.com/yourusername/smart-algo-v02)
-   
-2. **Esign**: A document signing solution with integration of third-party APIs for Aadhaar and PAN verification.
-   - Tech Stack: React, Node.js, MySQL
-   - [Repository](https://github.com/yourusername/esign)
+### 👉 Back-end
 
-3. **Copy Trading**: A system for automating trades based on other traders' strategies and performance.
-   - Tech Stack: MERN stack
-   - [Repository](https://github.com/yourusername/copy-trading)
+<p>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</p>
 
-### 🌐 Connect with me
+### 👉 Programming Language
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourwebsite.com)
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>-->
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
----
+### 👉 Database
 
-This `README.md` can be placed directly into your GitHub repository or profile page. Make sure to replace placeholders like `your username`, `yourprofile`, and project/repository links with your actual details.
+<p>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+<img alt="SqlServer" src ="https://img.shields.io/badge/sqlserver-%23316192.svg?style=for-the-badge&logo=sqlserver&logoColor=white"/>
+</p>
+
+### 👉 Version Control
+
+<p>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<!-- <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> -->
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> -->
+</p>
+
+### 👉 Others
+
+<p>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-%230072C6.svg?style=for-the-badge&logo=Postman-devops&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230db7ed.svg?style=for-the-badge&logo=Heroku&logoColor=white"/>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=snehpnp">
+</a>
+<a href="https://github.com/snehpnp?tab=followers"><img src="https://img.shields.io/github/followers/snehpnp?label=Followers&style=social" alt="GitHub Badge"></a>
+<br/>
+
+## 🤝 Connect with me
+
+<p>
+<a href = "www.linkedin.com/in/sneh-jaiswal-431165229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mr_jaiswal001/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p><br><hr>
+
+## ⚙️ Status 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" />
+</p>
+
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&theme=algolia&hide_border=true" alt="snehpnp" />
+</p><br /><br/>
+<p align="center"><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="600px"/></p>
+<h2 align="center">Men at work!</h2>
+
+
+<p align="center"><img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px"/></p>
+<h2 align="center">men work at team!</h2>
