@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://7b1y9b-3000.preview.csb.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://snehpnp.github.io/my-portfolio)**
 
 - 📫 How to reach me **snehjaiswal20@gmail.com**
 
