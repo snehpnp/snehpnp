@@ -94,14 +94,6 @@
 </p>
 
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&theme=algolia&hide_border=true" alt="snehpnp" />
-</p><br /><br/>
-<p align="center"><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="600px"/></p>
-<h2 align="center">Men at work!</h2>
-
-
-<p align="center"><img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px"/></p>
 
 #
 #
