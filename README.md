@@ -1,18 +1,21 @@
 ![Header](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
 
 # 🚀 Sneh Jaiswal | Full-Stack Developer
+<table>
+  <tr>
+    <td>
+      <img src="/Gamer.gif" alt="Gamer Animation" width="400"/>
+    </td>
+    <td>
+      <p>- 💡 Exploring <strong>AI Agents & Automation</strong></p>
+    </td>
+  </tr>
+</table>
+
+
 
 ### **👨‍💻 About Me**
 
-<div class="row">
-  <div class="col-lg-6">
-
-  <img src="/Gamer.gif" alt="Gamer Animation" width="400"/>
-</div>
-  <div class="col-lg-6">
-<p>- 💡 Exploring **AI Agents & Automation**</p>
-</div>
-</div>
 - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
 - 🎮 Passionate about **Game Development & AI Integrations**
 - 💡 Exploring **AI Agents & Automation**
