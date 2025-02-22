@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="80%">
       <ul>
         <li>🔥 3+ years of experience as a <strong>MERN Stack Developer</strong> at <strong>PNP Infotech</strong></li>
         <li>🎮 Passionate about <strong>Game Development & AI Integrations</strong></li>
@@ -22,7 +22,7 @@
         📷 <strong>Instagram:</strong> <a href="https://www.instagram.com/mr_jaiswal001/?hl=en">mr_jaiswal001</a>
       </p>
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="20%">
       <img src="/Gamer.gif" alt="Gamer Animation" width="300"/>
     </td>
   </tr>
