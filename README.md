@@ -4,9 +4,7 @@
 
 ### **👨‍💻 About Me**
 
-<p align="center">
-  <img src="your-gif-url.gif" alt="Gamer Animation" width="400"/>
-</p>
+![Gamer GIF](images/gif/Animation - 1740229090682.gif)
 
 
 
