@@ -103,3 +103,5 @@
 
 <p align="center"><img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px"/></p>
 <h2 align="center">men work at team!</h2>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ps-19/ps-19/refs/heads/master/PNG/footer.png" width="600px"/></p>
