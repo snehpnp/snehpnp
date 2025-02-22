@@ -3,12 +3,23 @@
 # 🚀 Sneh Jaiswal | Full-Stack Developer
 <table>
   <tr>
+      <td>
+    - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
+- 🎮 Passionate about **Game Development & AI Integrations**
+- 💡 Exploring **AI Agents & Automation**
+- 🚀 Actively contributing to **Open Source Projects**
+- 🏋️ I love **gaming & hitting the gym** to stay active!
+- 🌍 Always eager to learn & collaborate on new projects.
+
+📫 **Reach me at:** [snehjaiswal20@gmail.com](mailto:snehjaiswal20@gmail.com)  
+🔗 **Portfolio:** [My Portfolio](https://snehpnp.github.io/my-portfolio)  
+📍 **LinkedIn:** [Sneh Jaiswal](www.linkedin.com/in/sneh-jaiswal-431165229)  
+📷 **Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en)  
+    </td>
     <td>
       <img src="/Gamer.gif" alt="Gamer Animation" width="400"/>
     </td>
-    <td>
-      <p>- 💡 Exploring <strong>AI Agents & Automation</strong></p>
-    </td>
+  
   </tr>
 </table>
 
