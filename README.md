@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="Gamer.gi" alt="Gamer Animation" width="400"/>
+  <img src="/Gamer.gif" alt="Gamer Animation" width="400"/>
 </p>
 
 - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
