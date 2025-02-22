@@ -102,6 +102,11 @@
 
 
 <p align="center"><img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px"/></p>
-<h2 align="center">men work at team!</h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ps-19/ps-19/refs/heads/master/PNG/footer.png" width="600px"/></p>
+#
+#
+**All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ps-19/ps-19/blob/main/game.svg)
+
+
+![footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
