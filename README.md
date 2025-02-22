@@ -54,10 +54,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp"  width="700" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" width="500"/>
   <img src="/Gamer.gif" alt="Gamer Animation" width="300"/>
-</p>
+</div>
+
 
 ## 🎯 GitHub Contributions
 
