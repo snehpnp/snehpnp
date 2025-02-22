@@ -4,11 +4,15 @@
 
 ### **👨‍💻 About Me**
 
+<div class="row">
+  <div class="col-lg-6">
 
-<p align="center">
   <img src="/Gamer.gif" alt="Gamer Animation" width="400"/>
-</p>
-
+</div>
+  <div class="col-lg-6">
+<p>- 💡 Exploring **AI Agents & Automation**</p>
+</div>
+</div>
 - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
 - 🎮 Passionate about **Game Development & AI Integrations**
 - 💡 Exploring **AI Agents & Automation**
