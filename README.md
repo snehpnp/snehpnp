@@ -14,26 +14,20 @@
 
 ---
 
-<div align="center">
-  <h2>📫 Let's Connect</h2>
-  <table style="border-collapse: collapse; width: 50%; text-align: left; font-size: 18px;">
-    <tr>
-      <td style="padding: 10px;"><strong>📧 Email:</strong></td>
-      <td style="padding: 10px;"><a href="mailto:snehjaiswal20@gmail.com" style="text-decoration: none; color: #007bff; font-weight: bold;">snehjaiswal20@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>🌍 Portfolio:</strong></td>
-      <td style="padding: 10px;"><a href="https://snehpnp.github.io/my-portfolio" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>💼 LinkedIn:</strong></td>
-      <td style="padding: 10px;"><a href="https://www.linkedin.com/in/sneh-jaiswal-431165229" style="text-decoration: none; color: #0a66c2; font-weight: bold;">Sneh Jaiswal</a></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;"><strong>📷 Instagram:</strong></td>
-      <td style="padding: 10px;"><a href="https://www.instagram.com/mr_jaiswal001/?hl=en" style="text-decoration: none; color: #e4405f; font-weight: bold;">mr_jaiswal001</a></td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
+  <!-- Left Section: Profile GIF -->
+  <div style="flex: 1; text-align: center; min-width: 200px;">
+    <img src="/profile.gif" alt="Profile Animation" width="200" style="border-radius: 10px;">
+  </div>
+
+  <!-- Right Section: Contact Details -->
+  <div style="flex: 2; min-width: 250px;">
+    <h2 style="margin-bottom: 15px;">📫 Let's Connect</h2>
+    <p><strong>📧 Email:</strong> <a href="mailto:snehjaiswal20@gmail.com" style="text-decoration: none; color: #007bff; font-weight: bold;">snehjaiswal20@gmail.com</a></p>
+    <p><strong>🌍 Portfolio:</strong> <a href="https://snehpnp.github.io/my-portfolio" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></p>
+    <p><strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229" style="text-decoration: none; color: #0a66c2; font-weight: bold;">Sneh Jaiswal</a></p>
+    <p><strong>📷 Instagram:</strong> <a href="https://www.instagram.com/mr_jaiswal001/?hl=en" style="text-decoration: none; color: #e4405f; font-weight: bold;">mr_jaiswal001</a></p>
+  </div>
 </div>
 
 
