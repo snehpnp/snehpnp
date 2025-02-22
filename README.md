@@ -63,10 +63,10 @@
 
 
 ## 🎯 GitHub Contributions
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1px;">
     <img src="https://github.com/ps-19/ps-19/blob/main/game.svg" alt="Gamer Animation" width="1000" height="250"/>
 </div>
-![Contribution Graph](https://github.com/ps-19/ps-19/blob/main/game.svg)
+
 
 ---
 
