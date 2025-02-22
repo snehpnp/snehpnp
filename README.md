@@ -2,25 +2,36 @@
 
 # 🚀 Sneh Jaiswal | Full-Stack Developer
 
-### **👨‍💻 About Me**
+<div align="center">
+  <table>
+    <tr>
+      <!-- About Me Card -->
+      <td width="50%" valign="top">
+        <h2>👨‍💻 About Me</h2>
+        <ul>
+          <li>🔥 3+ years of experience as a <strong>MERN Stack Developer</strong> at <strong>PNP Infotech</strong></li>
+          <li>🎮 Passionate about <strong>Game Development & AI Integrations</strong></li>
+          <li>💡 Exploring <strong>AI Agents & Automation</strong></li>
+          <li>🚀 Actively contributing to <strong>Open Source Projects</strong></li>
+          <li>🏋️ I love <strong>gaming & hitting the gym</strong> to stay active!</li>
+          <li>🌍 Always eager to learn & collaborate on new projects.</li>
+        </ul>
+        <p>
+          📫 <strong>Reach me at:</strong> <a href="mailto:snehjaiswal20@gmail.com">snehjaiswal20@gmail.com</a> <br>
+          🔗 <strong>Portfolio:</strong> <a href="https://snehpnp.github.io/my-portfolio">My Portfolio</a> <br>
+          📍 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229">Sneh Jaiswal</a> <br>
+          📷 <strong>Instagram:</strong> <a href="https://www.instagram.com/mr_jaiswal001/?hl=en">mr_jaiswal001</a>  
+        </p>
+      </td>
+      
+      <td width="50%" align="center">
+        <h2>🎮 Gamer Mode On!</h2>
+        <img src="Gamer.gif" width="300" alt="Gamer GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Gamer GIF](Gamer.gif)
-
-
-
-- 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
-- 🎮 Passionate about **Game Development & AI Integrations**
-- 💡 Exploring **AI Agents & Automation**
-- 🚀 Actively contributing to **Open Source Projects**
-- 🏋️ I love **gaming & hitting the gym** to stay active!
-- 🌍 Always eager to learn & collaborate on new projects.
-
-📫 **Reach me at:** [snehjaiswal20@gmail.com](mailto:snehjaiswal20@gmail.com)  
-🔗 **Portfolio:** [My Portfolio](https://snehpnp.github.io/my-portfolio)  
-📍 **LinkedIn:** [Sneh Jaiswal](www.linkedin.com/in/sneh-jaiswal-431165229)  
-📷 **Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en)  
-
----
 
 ## ⚡ Tech Stack
 
