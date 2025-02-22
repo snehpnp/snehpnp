@@ -1,104 +1,68 @@
+![Header](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
 
-<img src="https://github-hero-readme.vercel.app/api?username=snehpnp&linkedin=snehpnp&twitter=snehpnp&description=Student%20Lelner%20%20|%20JavaScript%20%E2%99%A5&width='100%'">
+# 🚀 Sneh Jaiswal | Full-Stack Developer
 
-<br>
+### **👨‍💻 About Me**
 
-## 🙋‍♂️ About Me
+- 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
+- 🎮 Passionate about **Game Development & AI Integrations**
+- 💡 Exploring **AI Agents & Automation**
+- 🚀 Actively contributing to **Open Source Projects**
+- 🏋️ I love **gaming & hitting the gym** to stay active!
+- 🌍 Always eager to learn & collaborate on new projects.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
- 
-- 🌱  I’m currently learning **Advanced JavaScript and SQL.**
+📫 **Reach me at:** [snehjaiswal20@gmail.com](mailto:snehjaiswal20@gmail.com)  
+🔗 **Portfolio:** [My Portfolio](https://snehpnp.github.io/my-portfolio)  
+📍 **LinkedIn:** [Sneh Jaiswal](www.linkedin.com/in/sneh-jaiswal-431165229)  
+📷 **Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en)  
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+---
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://snehpnp.github.io/my-portfolio)**
+## ⚡ Tech Stack
 
-- 📫 How to reach me **snehjaiswal20@gmail.com**
+### 🚀 Frontend
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-<br><br><br>
- 
-## 🚀 Languages and Tools
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 👉 Front-end
+### 🚀 Backend & APIs
 
-<p>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
-</p>
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![AI Agents](https://img.shields.io/badge/AI_Agents-%23FF9A00.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
-### 👉 Back-end
+### 🚀 Databases & Storage
 
-<p>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firebase_Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 👉 Programming Language
+### 🚀 DevOps & Tools
 
-<p>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>-->
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%230072C6.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 👉 Database
+---
 
-<p>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
-<img alt="SqlServer" src ="https://img.shields.io/badge/sqlserver-%23316192.svg?style=for-the-badge&logo=sqlserver&logoColor=white"/>
-</p>
-
-### 👉 Version Control
-
-<p>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<!-- <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> -->
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<!-- <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> -->
-</p>
-
-### 👉 Others
-
-<p>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-%230072C6.svg?style=for-the-badge&logo=Postman-devops&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230db7ed.svg?style=for-the-badge&logo=Heroku&logoColor=white"/>
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=snehpnp">
-</a>
-<a href="https://github.com/snehpnp?tab=followers"><img src="https://img.shields.io/github/followers/snehpnp?label=Followers&style=social" alt="GitHub Badge"></a>
-<br/>
-
-## 🤝 Connect with me
-
-<p>
-<a href = "www.linkedin.com/in/sneh-jaiswal-431165229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mr_jaiswal001/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p><br><hr>
-
-## ⚙️ Status 
+## 📊 GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" />
 </p>
 
+## 🎯 GitHub Contributions
 
+![Contribution Graph](https://github.com/ps-19/ps-19/blob/main/game.svg)
 
-#
-#
-**All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ps-19/ps-19/blob/main/game.svg)
+---
 
+### **🌟 Let's Collaborate!**
 
-![footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
+I’m always open to exciting projects and collaborations! If you're interested in working together, feel free to reach out. 🚀
