@@ -4,7 +4,7 @@
 
 ### **👨‍💻 About Me**
 
-![Gamer GIF](images/gif/Animation - 1740229090682.gif)
+![Gamer GIF](Gamer.gif)
 
 
 
