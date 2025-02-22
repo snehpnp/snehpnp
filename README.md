@@ -6,7 +6,7 @@
 
 
 <p align="center">
-![Gamer GIF](Gamer.gif)
+  <img src="Gamer.gi" alt="Gamer Animation" width="400"/>
 </p>
 
 - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
@@ -22,7 +22,7 @@
 📷 **Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en)  
 
 ---
-
+![Gamer GIF](Gamer.gif)
 
 
 ## ⚡ Tech Stack
