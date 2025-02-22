@@ -57,8 +57,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" />
   <img src="/Gamer.gif" alt="Gamer Animation" width="300"/>
-  
-</div>
+
 
 </p>
 
