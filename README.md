@@ -12,10 +12,30 @@
 - 🏋️ I love **gaming & hitting the gym** to stay active!
 - 🌍 Always eager to learn & collaborate on new projects.
 
-📫 **Reach me at:** [snehjaiswal20@gmail.com](mailto:snehjaiswal20@gmail.com)  
-🔗 **Portfolio:** [My Portfolio](https://snehpnp.github.io/my-portfolio)  
-📍 **LinkedIn:** [Sneh Jaiswal](https://www.linkedin.com/in/sneh-jaiswal-431165229)  
-📷 **Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en)  
+---
+
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+  <table style="border-collapse: collapse; width: 50%; text-align: left; font-size: 18px;">
+    <tr>
+      <td style="padding: 10px;"><strong>📧 Email:</strong></td>
+      <td style="padding: 10px;"><a href="mailto:snehjaiswal20@gmail.com" style="text-decoration: none; color: #007bff; font-weight: bold;">snehjaiswal20@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>🌍 Portfolio:</strong></td>
+      <td style="padding: 10px;"><a href="https://snehpnp.github.io/my-portfolio" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>💼 LinkedIn:</strong></td>
+      <td style="padding: 10px;"><a href="https://www.linkedin.com/in/sneh-jaiswal-431165229" style="text-decoration: none; color: #0a66c2; font-weight: bold;">Sneh Jaiswal</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><strong>📷 Instagram:</strong></td>
+      <td style="padding: 10px;"><a href="https://www.instagram.com/mr_jaiswal001/?hl=en" style="text-decoration: none; color: #e4405f; font-weight: bold;">mr_jaiswal001</a></td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
