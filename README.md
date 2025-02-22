@@ -60,7 +60,7 @@
   <img src="/Gamer.gif" alt="Gamer Animation" width="250" height="250"/>
 </div>
 
-
+---
 
 ## 🎯 GitHub Contributions
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1px;">
