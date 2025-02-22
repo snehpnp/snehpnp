@@ -3,7 +3,9 @@
 # 🚀 Sneh Jaiswal | Full-Stack Developer
 
 ### **👨‍💻 About Me**
-
+<p align="center">
+  <iframe src="https://lottie.host/embed/65703c7c-17f3-4ed1-80b3-4e0836814861/BcPQNn0mKW.lottie" width="400" height="300"></iframe>
+</p>
 - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
 - 🎮 Passionate about **Game Development & AI Integrations**
 - 💡 Exploring **AI Agents & Automation**
