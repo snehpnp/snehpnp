@@ -5,10 +5,9 @@
 ### **👨‍💻 About Me**
 
 <p align="center">
-  <a href="https://lottie.host/embed/65703c7c-17f3-4ed1-80b3-4e0836814861/BcPQNn0mKW.lottie" target="_blank">
-    <img src="https://raw.githubusercontent.com/LottieFiles/lottie-docs/main/static/img/lottie-logo.png" alt="Gamer Animation" width="400"/>
-  </a>
+  <img src="your-gif-url.gif" alt="Gamer Animation" width="400"/>
 </p>
+
 
 
 - 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
