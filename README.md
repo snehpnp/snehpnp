@@ -14,7 +14,9 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; >
+<div style="display: flex;  >
+    <h2 style="margin-bottom: 15px;">📫 Let's Connect</h2>
+  
   <!-- Left Section: Profile GIF -->
   <div style="flex: 1; width="200">
     <img src="/profile.gif" alt="Profile Animation" width="200" style="border-radius: 10px;">
@@ -22,7 +24,7 @@
 
   <!-- Right Section: Contact Details -->
   <div style="flex: 2; width="200">
-    <h2 style="margin-bottom: 15px;">📫 Let's Connect</h2>
+
     <p><strong>📧 Email:</strong> <a href="mailto:snehjaiswal20@gmail.com" style="text-decoration: none; color: #007bff; font-weight: bold;">snehjaiswal20@gmail.com</a></p>
     <p><strong>🌍 Portfolio:</strong> <a href="https://snehpnp.github.io/my-portfolio" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></p>
     <p><strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229" style="text-decoration: none; color: #0a66c2; font-weight: bold;">Sneh Jaiswal</a></p>
