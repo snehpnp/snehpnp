@@ -64,6 +64,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehpnp&label=Profile%20views&color=0e75b6&style=flat" alt="snehpnp" /> </p>
 
@@ -73,13 +74,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Trophys
 
 <div >
  <img src="/Gamer.gif" alt="Gamer Animation" width="200" height="25%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" width="50%" height="250"/>
   <img src="/Gamer.gif" alt="Gamer Animation" width="200" height="25%"/>
 </div>
+
+---
+
+## 📊 GitHub Support
+
+<p><a href="https://www.buymeacoffee.com/snehpnp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snehpnp" /></a><a href="https://ko-fi.com/snehpnp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="snehpnp" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehpnp&show_icons=true&locale=en&layout=compact" alt="snehpnp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en" alt="snehpnp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&" alt="snehpnp" /></p>
 
 ---
 
