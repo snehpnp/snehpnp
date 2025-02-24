@@ -82,13 +82,6 @@
   <img src="/Gamer.gif" alt="Gamer Animation" width="200" height="25%"/>
 </div>
 
----
-
-## 📊 GitHub Support
-
-<p><a href="https://www.buymeacoffee.com/snehpnp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snehpnp" /></a><a href="https://ko-fi.com/snehpnp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="snehpnp" /></a></p><br><br>
-
-
 
 ---
 
