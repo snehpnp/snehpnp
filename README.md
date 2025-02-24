@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&theme=algolia" alt="GitHub Streak" width="32%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehpnp&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&theme=algolia" alt="GitHub Streak" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehpnp&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" width="100%">
 </div>
 
 ---
