@@ -14,14 +14,14 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; >
   <!-- Left Section: Profile GIF -->
-  <div style="flex: 1; text-align: center; min-width: 200px;">
+  <div style="flex: 1; width="200">
     <img src="/profile.gif" alt="Profile Animation" width="200" style="border-radius: 10px;">
   </div>
 
   <!-- Right Section: Contact Details -->
-  <div style="flex: 2; min-width: 250px;">
+  <div style="flex: 2; width="200">
     <h2 style="margin-bottom: 15px;">📫 Let's Connect</h2>
     <p><strong>📧 Email:</strong> <a href="mailto:snehjaiswal20@gmail.com" style="text-decoration: none; color: #007bff; font-weight: bold;">snehjaiswal20@gmail.com</a></p>
     <p><strong>🌍 Portfolio:</strong> <a href="https://snehpnp.github.io/my-portfolio" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></p>
