@@ -17,7 +17,8 @@
 ## 📫 Let's Connect  
 
 
-| <img src="/profile.gif" alt="Profile Animation" width="150"> | **📧 Email:** snehjaiswal20@gmail.com  
+<img src="/profile.gif" alt="Profile Animation" width="150"> 
+| **📧 Email:** snehjaiswal20@gmail.com  
 | **🌍 Portfolio:** [My Portfolio](https://snehpnp.github.io/my-portfolio)  
 | **💼 LinkedIn:** [Sneh Jaiswal](https://www.linkedin.com/in/sneh-jaiswal-431165229)  
 | **📷 Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en) |
