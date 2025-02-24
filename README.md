@@ -17,28 +17,11 @@
 ## 📫 Let's Connect  
 
 
-<table>
-  <tr>
-    <td>
-      <img src="/profile.gif" alt="Profile Animation" width="150">
-    </td>
-    <td>
-      <strong>📧 Email:</strong> snehjaiswal20@gmail.com  
-      <br><br>
+| <img src="/profile.gif" alt="Profile Animation" width="150"> | **📧 Email:** snehjaiswal20@gmail.com  
+| **🌍 Portfolio:** [My Portfolio](https://snehpnp.github.io/my-portfolio)  
+| **💼 LinkedIn:** [Sneh Jaiswal](https://www.linkedin.com/in/sneh-jaiswal-431165229)  
+| **📷 Instagram:** [mr_jaiswal001](https://www.instagram.com/mr_jaiswal001/?hl=en) |
 
-      <strong>🌍 Portfolio:</strong>  
-      <a href="https://snehpnp.github.io/my-portfolio">My Portfolio</a>  
-      <br><br>
-
-      <strong>💼 LinkedIn:</strong>  
-      <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229">Sneh Jaiswal</a>  
-      <br><br>
-
-      <strong>📷 Instagram:</strong>  
-      <a href="https://www.instagram.com/mr_jaiswal001/?hl=en">mr_jaiswal001</a>  
-    </td>
-  </tr>
-</table>
 
 
 
