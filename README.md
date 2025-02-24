@@ -70,8 +70,8 @@
 
 <div >
  <img src="/Gamer.gif" alt="Gamer Animation" width="200" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" width="500" height="250"/>
-  <img src="/Gamer.gif" alt="Gamer Animation" width="200" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snehpnp&show_icons=true&locale=en&theme=algolia" alt="snehpnp" width="700" height="250"/>
+
 </div>
 
 ---
