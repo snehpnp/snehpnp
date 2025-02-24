@@ -16,27 +16,30 @@
 
 ## 📫 Let's Connect  
 
-<div style="display: flex; align-items: center; gap: 20px;">
 
-  <div>
-    <img src="/profile.gif" alt="Profile Animation" width="200" style="border-radius: 10px;">
-  </div>
+<table>
+  <tr>
+    <td>
+      <img src="/profile.gif" alt="Profile Animation" width="150">
+    </td>
+    <td>
+      <strong>📧 Email:</strong> snehjaiswal20@gmail.com  
+      <br><br>
 
-  <div>
-    <p><strong>📧 Email:</strong>  
-    <a href="mailto:snehjaiswal20@gmail.com">snehjaiswal20@gmail.com</a></p>
+      <strong>🌍 Portfolio:</strong>  
+      <a href="https://snehpnp.github.io/my-portfolio">My Portfolio</a>  
+      <br><br>
 
-    <p><strong>🌍 Portfolio:</strong>  
-    <a href="https://snehpnp.github.io/my-portfolio">My Portfolio</a></p>
+      <strong>💼 LinkedIn:</strong>  
+      <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229">Sneh Jaiswal</a>  
+      <br><br>
 
-    <p><strong>💼 LinkedIn:</strong>  
-    <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229">Sneh Jaiswal</a></p>
+      <strong>📷 Instagram:</strong>  
+      <a href="https://www.instagram.com/mr_jaiswal001/?hl=en">mr_jaiswal001</a>  
+    </td>
+  </tr>
+</table>
 
-    <p><strong>📷 Instagram:</strong>  
-    <a href="https://www.instagram.com/mr_jaiswal001/?hl=en">mr_jaiswal001</a></p>
-  </div>
-
-</div>
 
 
 
