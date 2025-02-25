@@ -1,4 +1,4 @@
-![Header](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
+![Header](https://github.com/ps-19/ps-19/blob/master/PNG/newimg.png)
 
 # 🚀 Sneh Jaiswal | Full-Stack Developer
 
