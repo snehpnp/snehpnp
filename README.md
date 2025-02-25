@@ -1,6 +1,6 @@
 
 
-<img src="/newimg.png" alt="Gamer Animation" width="100%" height="20%"/>
+<img src="/newimg.png" alt="Gamer Animation" width="100%" height="15%"/>
 
 # 🚀 Sneh Jaiswal | Full-Stack Developer
 
