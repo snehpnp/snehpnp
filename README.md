@@ -1,4 +1,4 @@
-![Header](https://github.com/ps-19/ps-19/blob/master/PNG/newimg.png)
+
 
 <img src="/newimg.png" alt="Gamer Animation" width="800" height="25%"/>
 
@@ -93,6 +93,9 @@
 </div>
 
 
+---
+
+![Header](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
 ---
 
 ### **🌟 Let's Collaborate!**
