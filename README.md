@@ -1,4 +1,4 @@
-<img src="/newimg.png" alt="Gamer Animation" width="100%" height="2%"/>
+![footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
 
 # 🚀 Sneh Jaiswal | Full-Stack Developer
 
