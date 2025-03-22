@@ -23,7 +23,7 @@
   <!-- Right Section: Contact Details -->
   <div style="flex: 2; min-width: 250px;">
     <p><strong>📧 Email:</strong> <a href="mailto:snehjaiswal20@gmail.com" style="text-decoration: none; color: #007bff; font-weight: bold;">snehjaiswal20@gmail.com</a></p>
-    <p><strong>🌍 Portfolio:</strong> <a href="https://snehpnp.github.io/my-portfolio" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></p>
+    <p><strong>🌍 Portfolio:</strong> <a href="https://snehtech.vercel.app/" style="text-decoration: none; color: #28a745; font-weight: bold;">My Portfolio</a></p>
     <p><strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229" style="text-decoration: none; color: #0a66c2; font-weight: bold;">Sneh Jaiswal</a></p>
     <p><strong>📷 Instagram:</strong> <a href="https://www.instagram.com/mr_jaiswal001/?hl=en" style="text-decoration: none; color: #e4405f; font-weight: bold;">mr_jaiswal001</a></p>
   </div>
