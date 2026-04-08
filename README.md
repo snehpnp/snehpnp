@@ -64,9 +64,6 @@ console.log("Ready to build amazing things! 🚀");
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800">
-</div>
 
 ## 🔗 Digital Connect Hub
 
@@ -198,7 +195,7 @@ console.log("Ready to build amazing things! 🚀");
       <td width="50%">
         
 ### 🎯 Coding Metrics Dashboard
-```yaml
+
 📊 Performance Stats:
   • Lines of Code Written: 75,000+ 
   • Projects Completed: 40+
@@ -212,7 +209,7 @@ console.log("Ready to build amazing things! 🚀");
   • Coding Music: Lo-fi & Synthwave
   • Debugging Style: Rubber Duck 🦆
   • Weekend Activity: Open Source
-```
+
 
       </td>
       <td width="50%">
