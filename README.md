@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="45%">
+<td width="55%">
 
 ### 👨‍💻 Professional Nexus
 ```yaml
@@ -187,66 +187,7 @@ console.log("Ready to build amazing things! 🚀");
   
 </div>
 
-## 🎮 Developer Fun Zone & Statistics
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        
-### 🎯 Coding Metrics Dashboard
-
-📊 Performance Stats:
-  • Lines of Code Written: 75,000+ 
-  • Projects Completed: 40+
-  • Bugs Fixed: 500+ 🐛
-  • Features Deployed: 200+
-  • Coffee Consumed: ∞ ☕
-  • Late Night Coding: 365 days 🌙
-  
-🎮 Gaming Stats:
-  • Favorite Games: Strategy & RPG
-  • Coding Music: Lo-fi & Synthwave
-  • Debugging Style: Rubber Duck 🦆
-  • Weekend Activity: Open Source
-
-
-      </td>
-      <td width="50%">
-        
-### 🌟 Quick Developer Facts
-- 🔥 **Started Coding**: 2020
-- ⚡ **Favorite Language**: JavaScript
-- 🎯 **Dream Project**: AI-Powered Game Engine
-- 🌍 **Time Zone**: IST (GMT+5:30)
-- 🎨 **Design Philosophy**: "Simple yet Powerful"
-- 🚀 **Next Goal**: Contributing to Major Open Source
-- 🎵 **Coding Playlist**: 1000+ Songs
-- 📚 **Always Learning**: New Technologies Daily
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=snehpnp&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff" alt="Coding Time Stats" />
-
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎨 Unique Visualizations & Animations
-
-<div align="center">
-  
-  <!-- Snake Animation with Custom Colors -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/snehpnp/snehpnp/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/snehpnp/snehpnp/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://github.com/snehpnp/snehpnp/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <!-- 3D Contribution Calendar -->
-  <br><br>
-  <img src="https://github-profile-3d-contrib.vercel.app/svg?username=snehpnp&theme=radical" alt="3D Contribution Graph" />
-  
-</div>
 
 ## 📈 Advanced Productivity & Performance Metrics
 
@@ -276,41 +217,7 @@ console.log("Ready to build amazing things! 🚀");
   
 </div>
 
-## 🎭 Daily Developer Wisdom
 
-<div align="center">
-  
-  <!-- Random Programming Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Programming Quote" />
-  
-  <!-- Daily Coding Joke -->
-  <br><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Daily Programming Joke" />
-  
-</div>
-
-## 🚀 Featured Projects Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehpnp&repo=AI-ChatBot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&icon_color=00D9FF" alt="AI ChatBot" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehpnp&repo=GameDev-Engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&icon_color=00D9FF" alt="Game Engine" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehpnp&repo=MERN-Stack-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&icon_color=00D9FF" alt="MERN App" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehpnp&repo=React-Native-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&icon_color=00D9FF" alt="Mobile App" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🌟 Community & Support Network
 
