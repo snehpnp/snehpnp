@@ -15,7 +15,7 @@
     </td>
     <!-- Right Column: Profile Image -->
     <td width="30%" align="center" valign="middle" style="border: none;">
-      <img src="https://snehj.lovable.app/profile.png" width="220" alt="Sneh Jaiswal" style="border-radius: 50%; border: 4px solid #00FF9C;" />
+      <img src="profile.png" width="220" alt="Sneh Jaiswal" style="border-radius: 50%; border: 4px solid #00FF9C;" />
     </td>
   </tr>
 </table>
