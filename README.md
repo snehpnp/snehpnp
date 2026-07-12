@@ -1,26 +1,28 @@
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Left Column: Name & Details -->
+    <td width="70%" valign="top" style="border: none; padding-right: 20px;">
+      <h1>Hi, I'm <font color="#00FF9C">Sneh Jaiswal</font> 👋</h1>
+      <h3>⚡ LEAD FINTECH ENGINEER &amp; SYSTEM ARCHITECT</h3>
+      <p>I build <b>Algorithmic Trading Platforms</b>, <b>Fintech SaaS</b> &amp; <b>high-performance Automation Systems</b> that traders and businesses rely on every day.</p>
+      <br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=00FF9C&amp;center=false&amp;vCenter=true&amp;width=450&amp;lines=sneh%40fintech-server%3A~%24+whoami;FINTECH+ENGINEER+%7C+SYSTEM+ARCHITECT;5%2B+Years+Experience;50%2B+Projects+Shipped" />
+      <br><br>
+      <!-- Action Buttons -->
+      <a href="https://snehj.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-snehj.lovable.app-00FF9C?style=for-the-badge&amp;logo=vercel&amp;logoColor=black&amp;labelColor=0D1117" /></a>
+      <a href="https://www.linkedin.com/in/sneh-jaiswal-431165229"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117" /></a>
+      <a href="mailto:snehjaiswal20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117" /></a>
+    </td>
+    <!-- Right Column: Profile Image -->
+    <td width="30%" align="center" valign="middle" style="border: none;">
+      <img src="https://snehj.lovable.app/profile.png" width="220" alt="Sneh Jaiswal" style="border-radius: 50%; border: 4px solid #00FF9C;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-
-<!-- Centered Profile Image -->
-<img src="https://snehj.lovable.app/profile.png" width="160" alt="Sneh Jaiswal" style="border-radius: 50%; border: 4px solid #00FF9C;" />
-
-# Sneh Jaiswal 👋
-### ⚡ LEAD FINTECH ENGINEER & SYSTEM ARCHITECT
-
-<p align="center" style="max-width: 700px;">
-  I build <b>Algorithmic Trading Platforms</b>, <b>Fintech SaaS</b> & <b>high-performance Automation Systems</b> that traders and businesses rely on every day.
-</p>
-
-<!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=550&lines=sneh%40fintech-server%3A~%24+whoami;FINTECH+ENGINEER+%7C+SYSTEM+ARCHITECT;5%2B+Years+Experience;50%2B+Projects+Shipped;7%2B+Broker+APIs+Integrated" />
-
-<br><br>
-
-<!-- Action Buttons -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-snehj.lovable.app-00FF9C?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://snehj.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/sneh-jaiswal-431165229)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:snehjaiswal20@gmail.com)
-
-<br><br>
 
 ---
 
