@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://snehj.lovable.app/">
-    <img src="header.svg" width="100%" alt="Sneh Jaiswal Animated Portfolio Banner" />
+    <img src="https://raw.githubusercontent.com/snehpnp/snehpnp/main/header.svg" width="100%" alt="Sneh Jaiswal Animated Portfolio Banner" />
   </a>
 </p>
 
