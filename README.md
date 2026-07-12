@@ -1,38 +1,8 @@
-<img src="https://snehj.lovable.app/profile.png" width="280" align="right" alt="Sneh Jaiswal Avatar" style="margin-left: 20px; margin-bottom: 20px;" />
-
-# Hi, I'm <font color="#00FF9C">Sneh Jaiswal •</font> 👋
-### ⚡ LEAD FINTECH ENGINEER & SYSTEM ARCHITECT
-
-I build **Algorithmic Trading Platforms**, **Fintech SaaS** & **high-performance Automation Systems** that traders and businesses rely on every day.
-
-<br>
-
-<!-- Technology Badges / Pills -->
-` REACT ` &nbsp; ` NODE.JS ` &nbsp; ` PYTHON ` &nbsp; ` NEXT.JS ` &nbsp; ` AWS ` &nbsp; ` MONGODB ` &nbsp; ` TYPESCRIPT ` &nbsp; ` DOCKER `
-
-<br><br>
-
-<!-- Action Buttons -->
-<a href="mailto:snehjaiswal20@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-00FF9C?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" /></a>
-&nbsp;
-<a href="https://snehj.lovable.app/projects"><img src="https://img.shields.io/badge/View%20Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sneh-jaiswal-431165229"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-
-<br><br>
-
-<div align="left">
-
----
-
-### 📊 Professional Metrics
-
-| 🚀 50+ Projects Shipped | 💼 5+ Years Experience | 👥 20+ Clients Served |
-| :---: | :---: | :---: |
-
----
-
-</div>
+<p align="center">
+  <a href="https://snehj.lovable.app/">
+    <img src="header.svg" width="100%" alt="Sneh Jaiswal Animated Portfolio Banner" />
+  </a>
+</p>
 
 <br><br>
 
