@@ -1,9 +1,12 @@
 import base64
+import re
 
-# Read and base64 encode the profile animation
+# 1. Read and base64 encode the profile animation (profile.gif)
+print("Encoding profile.gif...")
 with open('profile.gif', 'rb') as f:
     img_data = base64.b64encode(f.read()).decode('utf-8')
 
+# 2. SVG Template with CSS Animations and Orbit Cycles
 svg_template = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" fill="none">
   <defs>
     <!-- Fonts & Keyframe Animations -->
@@ -280,10 +283,31 @@ svg_template = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560"
 
 </svg>"""
 
-# Replace placeholder with base64 data URL
+# Replace profile placeholder
 svg_content = svg_template.replace("{img_data}", img_data)
 
+# Save header.svg file
+print("Writing header.svg...")
 with open('header.svg', 'w', encoding='utf-8') as f:
     f.write(svg_content)
 
-print("Successfully compiled header.svg with embedded base64 profile image!")
+# 3. Base64 encode the entire SVG
+print("Encoding header.svg to base64...")
+svg_base64 = base64.b64encode(svg_content.encode('utf-8')).decode('utf-8')
+data_uri = f"data:image/svg+xml;base64,{svg_base64}"
+
+# 4. Read README.md and replace the banner tag with the self-contained data URI
+print("Updating README.md with inline data URI...")
+with open('README.md', 'r', encoding='utf-8') as f:
+    readme_content = f.read()
+
+# Replace the img src
+pattern = r'<img src="header\.svg" width="100%" alt="Sneh Jaiswal Animated Portfolio Banner" />'
+replacement = f'<img src="{data_uri}" width="100%" alt="Sneh Jaiswal Animated Portfolio Banner" />'
+
+new_readme_content = re.sub(pattern, replacement, readme_content)
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(new_readme_content)
+
+print("Successfully compiled and embedded animated SVG inside README.md!")
