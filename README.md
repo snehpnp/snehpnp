@@ -1,10 +1,39 @@
-<p align="center">
-  <a href="https://snehj.lovable.app/">
-    <img src="https://raw.githubusercontent.com/snehpnp/snehpnp/main/header.svg" width="100%" alt="Sneh Jaiswal Animated Portfolio Banner" />
-  </a>
+<div align="center">
+
+<!-- Centered Profile Image -->
+<img src="https://snehj.lovable.app/profile.png" width="160" alt="Sneh Jaiswal" style="border-radius: 50%; border: 4px solid #00FF9C;" />
+
+# Sneh Jaiswal 👋
+### ⚡ LEAD FINTECH ENGINEER & SYSTEM ARCHITECT
+
+<p align="center" style="max-width: 700px;">
+  I build <b>Algorithmic Trading Platforms</b>, <b>Fintech SaaS</b> & <b>high-performance Automation Systems</b> that traders and businesses rely on every day.
 </p>
 
+<!-- Typing SVG Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=550&lines=sneh%40fintech-server%3A~%24+whoami;FINTECH+ENGINEER+%7C+SYSTEM+ARCHITECT;5%2B+Years+Experience;50%2B+Projects+Shipped;7%2B+Broker+APIs+Integrated" />
+
 <br><br>
+
+<!-- Action Buttons -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-snehj.lovable.app-00FF9C?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://snehj.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/sneh-jaiswal-431165229)
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:snehjaiswal20@gmail.com)
+
+<br><br>
+
+---
+
+### 📊 Professional Metrics
+
+| 🚀 50+ Projects Shipped | 💼 5+ Years Experience | 👥 20+ Clients Served |
+| :---: | :---: | :---: |
+
+---
+
+</div>
+
+<br>
 
 ## 👤 About Me
 
@@ -37,7 +66,7 @@ Status     : Open to Collaborate on Next-Gen Fintech & SaaS Architectures
 
 <br>
 
-## 🛠️ Tech Stack & Domain Expertise
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,express,python,fastapi,mongodb,postgres,mysql,redis,docker,aws,git&theme=dark" />
@@ -45,12 +74,32 @@ Status     : Open to Collaborate on Next-Gen Fintech & SaaS Architectures
 
 <br>
 
-#### ⚡ Specialized Domain Capabilities:
-- 📈 **Trading & Fintech**: Algorithmic Trading · Backtesting Engines · Copy Trading Platforms · 20+ Broker APIs · TradingView Pine Script integrations
-- 💻 **Frontend Engineering**: React.js · Next.js · TypeScript · Tailwind CSS · State Management & Real-Time Dashboards
-- ⚙️ **Backend & Systems**: Node.js · Express.js · Python · FastAPI · REST APIs · WebSockets for real-time tickers
-- 🗄️ **Data & Infrastructure**: MongoDB · PostgreSQL · ClickHouse · Redis Caching · MySQL · Docker · AWS (EC2, S3, RDS)
-- 🤖 **AI & Integrations**: OpenAI API · LangChain · RAG Systems · Razorpay / Stripe · WhatsApp Cloud API · Twilio
+<table width="100%">
+  <tr style="border: none;">
+    <!-- Card 1 -->
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+      <h3>📈 Trading &amp; Fintech</h3>
+      <p>Algorithmic Trading · Backtesting Engines · Copy Trading Platforms · 20+ Broker APIs · TradingView Pine Script integrations</p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+      <h3>💻 Frontend Engineering</h3>
+      <p>React.js · Next.js · TypeScript · Tailwind CSS · State Management &amp; Real-Time Dashboards</p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- Card 3 -->
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+      <h3>⚙️ Backend &amp; Systems</h3>
+      <p>Node.js · Express.js · Python · FastAPI · REST APIs · WebSockets for real-time tickers</p>
+    </td>
+    <!-- Card 4 -->
+    <td width="50%" valign="top" style="border: 1px solid #1f2937; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+      <h3>🗄️ Data &amp; Infrastructure</h3>
+      <p>MongoDB · PostgreSQL · ClickHouse · Redis Caching · MySQL · Docker · AWS (EC2, S3, RDS)</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
